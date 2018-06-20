@@ -2,11 +2,13 @@
 This is Infotech Office network Design.
 
 
-Software:PACKET_TRACER_CISCO
+Software:CISCO_PACKET_TRACER
+
+VERSION:7.1.1.0138
 
 Designed by:
 
 Kishore kumar P.B
 
-Queries: crazykisore2015@gmail.com
+Queries:crazykisore2015@gmail.com
 
