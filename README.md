@@ -8,5 +8,5 @@ Designed by:
 
 Kishore kumar P.B
 
-Queries:crazykisore2015@gmail.com
+Queries: crazykisore2015@gmail.com
 
